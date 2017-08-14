@@ -4,7 +4,7 @@ A test according to http://nailbuster.com/?page_id=341.
 
 ![display front](TJCTM24028-SPI-front.png)
 
-![display back](TJCTM24028-SPI-back.png)
+![display back](TJCTM24028-SPI-back.jpg)
 
 ![d1 mini](d1mini-1.jpg)
 
