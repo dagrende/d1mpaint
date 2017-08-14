@@ -1,5 +1,7 @@
 # Wemos d1 mini and the cheap TJCTM24028-SPI color touch display
 
+A test according to http://nailbuster.com/?page_id=341.
+
 | D1 mini | display |
 | ------- | ------- |
 | D1 | T_IRQ |
